@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Open to learn anything
 ----------------------
 
-Im a man who wants the world in his hands
+Im a man who wants the world in his hands, 1 year experience working full stack developer. Project in production.
 
 * 🌍  I'm based in Niracuagua-Managua
 * ✉️  You can contact me at [em0144288@gmail.com](mailto:em0144288@gmail.com)
