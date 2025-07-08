@@ -11,7 +11,7 @@ Im a man who wants the world in his hands, 1 year experience working full stack 
 * 🧠  I'm learning Angular, ASP.Net Core, Sql Server
 * 🤝  I'm open to collaborating on any project
 
-### Skills
+### Skills 
 
 
 <p align="left">
